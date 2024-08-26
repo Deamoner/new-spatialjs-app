@@ -97,6 +97,12 @@ function App() {
 export default App;
 ```
 
+<br />
+<p align="center">
+  <img src="assets/main.png" width="600" alt="SpatialJS Hello World" />
+</p>
+<br />
+
 Now you will be able to see your Hello World Window in the App Browser. You may see two windows as your component gets rendered twice.
 You can add an `id` prop to make the window unique and not duplicated.
 
