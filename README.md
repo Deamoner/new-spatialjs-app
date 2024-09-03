@@ -17,6 +17,8 @@ GitHub Repo: [SpatialJS Basic Tutorial](https://github.com/Deamoner/new-spatialj
 
 Live Edit: [Try it on CodeSandbox](https://codesandbox.io/p/github/Deamoner/new-spatialjs-app/main?import=true)
 
+Youtube Tutorial: [SpatialJS Hello World Tutorial](https://youtu.be/b9DVsKrjs0U)
+
 ## Introduction
 
 Here's what you can expect from this template:
