@@ -13,6 +13,12 @@
 
 This project serves as an exciting starting point for creating immersive spatial experiences right in your web browser. SpatialJS, combined with WebXR, opens up a world of possibilities for building interactive 3D environments that users can explore using virtual or augmented reality devices.
 
+GitHub Repo: [SpatialJS Basic Tutorial](https://github.com/Deamoner/new-spatialjs-app)
+
+Live Edit: [Try it on CodeSandbox](https://codesandbox.io/p/github/Deamoner/new-spatialjs-app/main?import=true)
+
+## Introduction
+
 Here's what you can expect from this template:
 
 1. **Easy Setup**: We've configured everything you need to get started quickly with React, Vite, and WebXR.
